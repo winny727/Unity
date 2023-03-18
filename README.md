@@ -1,3 +1,2 @@
 # Unity-Sudoku-Solve
-The maximum time of finding the unique solution is about 700ms. The average time is 200ms.
-It takes about 10s to solve a maximum of 99,999 solutions.
+This Sudoku Solver can find a unique solution within a maximum time of 700 milliseconds and an average time of 200 milliseconds.  When there are multiple solutions, it takes approximately 10 seconds to find up to 99,999 solutions.
